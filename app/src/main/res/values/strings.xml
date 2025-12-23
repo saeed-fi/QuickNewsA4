@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">QuickNews</string>
+    <string name="login">Login</string>
+    <string name="username">Username</string>
+    <string name="password">Password</string>
+    <string name="welcome">Welcome to QuickNews</string>
+    <string name="tagline">Stay updated with latest articles</string>
+    <string name="search_hint">Search articles...</string>
+    <string name="refresh">Refresh</string>
+    <string name="theme">Change Theme</string>
+    <string name="logout">Logout</string>
+    <string name="edit">Edit</string>
+    <string name="delete">Delete</string>
+    <string name="view_more">View More</string>
+    <string name="no_articles">No articles found</string>
+</resources>
